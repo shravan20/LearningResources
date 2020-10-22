@@ -25,7 +25,7 @@ OhMyLearning is a collections of links and curated contents to technologies that
 <!-- YOUR_CONTENT_GOES_HERE -->
 
 ### Fun Games
-   * [Hangman](https://hang-man-word-game.herokuapp.com/) - This is a fun word guessing game created using vanila js.You have 6 chances to guess the word right.Give it a try.
+   * [Hangman](https://hang-man-word-game.herokuapp.com/) - This is a fun word guessing game created using Vanilla.js. You have 6 chances to guess the word right. Give it a try.
 
 ### Open Source Projects Available for Contributions
    * [hoppscotch](https://github.com/nishantpersonal/hangman) - :alien: A free, fast and beautiful API request builder used by 80k+ developers.
