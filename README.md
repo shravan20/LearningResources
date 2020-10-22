@@ -5,8 +5,6 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 <p align="center">
   <img width="250" height="100" src="./assets/powered.gif">
 </p>
-<br><br><br><br>
-
 
 
 OhMyLearning is a collections of links and curated contents to technologies that would very useful while learning and working. 
