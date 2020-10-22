@@ -15,7 +15,7 @@ OhMyLearning is a collections of curated contents and links to technologies that
 <p align="center">
   <img width="150" height="150" src="./assets/logo.png">
 </p>
-<br><br><br><br><br>
+<br><br><br><br>
 
 
 
