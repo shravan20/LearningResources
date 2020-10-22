@@ -14,9 +14,11 @@ OhMyLearning is a collections of curated contents and links to technologies that
 <p align="center">
   <img width="150" height="150" src="./assets/logo.png">
 </p>
+<br><br><br><br><br>
 
 
-<p align="center">
-![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
-</p>
+
+
+
+![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)</p>
 
