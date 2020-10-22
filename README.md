@@ -1,4 +1,4 @@
-# Learning Resources - OhMyLearning
+# Learning Resources - [OhMyLearning](https://github.com/shravan20/LearningResources)
 
 <!-- HEADER -->
 
