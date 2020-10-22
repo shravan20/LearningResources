@@ -17,7 +17,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 
 <p align="center">
-  <img width="100" height="50" src="./assets/logo.png">
+  <img width="100" height="80" src="./assets/logo.png">
 </p>
 <!-- HEADER -->
 
