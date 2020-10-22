@@ -3,7 +3,7 @@
 A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
 <p align="center">
-  <img width="100" height="100" src="./assets/powered.gif">
+  <img width="150" height="100" src="./assets/powered.gif">
 </p>
 <br><br><br><br>
 
