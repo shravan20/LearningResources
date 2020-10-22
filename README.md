@@ -1,5 +1,7 @@
 # Learning Resources - OhMyLearning
 
+<!-- HEADER -->
+
 A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
 <p align="center">
@@ -17,18 +19,21 @@ OhMyLearning is a collections of links and curated contents to technologies that
 <p align="center">
   <img width="100" height="50" src="./assets/logo.png">
 </p>
+<!-- HEADER -->
 
 
 <!-- YOUR_CONTENT_GOES_HERE -->
 
+
+
 <!-- YOUR_CONTENT_GOES_HERE -->
 
+
+
+
+<!-- FOOTER -->
 <br><br><br><br>
-
-
 <p align="center">
   <img width="200" height="40" src="http://ForTheBadge.com/images/badges/built-with-love.svg">
 </p>
-
-
-
+<!-- FOOTER -->
