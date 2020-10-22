@@ -23,6 +23,8 @@ OhMyLearning is a collections of links and curated contents to technologies that
 
 
 <!-- YOUR_CONTENT_GOES_HERE -->
+## Fun Games
+   * [Hangman](https://github.com/nishantpersonal/hangman)-This is a fun word guessing game created using vanila js.You have 6 chances to guess the word right.Give it a try.
 
 
 
