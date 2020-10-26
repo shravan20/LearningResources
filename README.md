@@ -24,12 +24,14 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 <!-- YOUR_CONTENT_GOES_HERE -->
 
 ### Open Source Projects Available for Contributions
-   * [hoppscotch](https://github.com/nishantpersonal/hangman) : :alien: A free, fast and beautiful API request builder used by 80k+ developers.
+
+   * [hoppscotch](https://github.com/hoppscotch/hoppscotch) : :alien: A free, fast and beautiful API request builder used by 80k+ developers.
    * [Hangman](https://github.com/nishantpersonal/hangman) : This is a fun word guessing game created using Vanilla.js.You have 6 chances to guess the word right. Fork and Work Around.
    * [Forem](https://github.com/forem/forem) : :seedling: Forem is open source software for building communities. Communities for your peers, customers, fanbases, families, friends, and any other time and space where people need to come together to be part of a collective.
    * [Tails](https://github.com/thedevdojo/tails) : A (no-config) copy'n paste library of hand-crafted templates and components built in TailwindCSS.
 
-### Programming Style Guides
+### Programming Style Guides :memo:
+
 - [Airbnb JS Style Guide](https://github.com/airbnb/javascript) : A mostly reasonable approach to JavaScript
 - [Airbnb Ruby Style Guide](https://github.com/airbnb/ruby) : A ruby style guide by Airbnb
 - [Ruby coding style guide](https://github.com/bbatsov/ruby-style-guide) : A community-driven Ruby coding style guide
@@ -51,11 +53,13 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 - [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html): Google Java Style Guide
 - [Rust Coding style](https://github.com/rust-dev-tools/fmt-rfcs): Rust code formatting RFCs and coding style guides 
  
- ### Fun Games
-   * [Hangman](https://hang-man-word-game.herokuapp.com/) : This is a fun word guessing game created using Vanilla.js. You have 6 chances to guess the word right. Give it a try.
+ ### Fun Games :video_game:
+ 
+   - [Hangman](https://hang-man-word-game.herokuapp.com/) : This is a fun word guessing game created using Vanilla.js. You have 6 chances to guess the word right. Give it a try.
 
 
-### YouTube Channels
+### YouTube Channels :tv:
+
 - [C++Now (BoostCon)](https://www.youtube.com/channel/UC5e__RG9K3cHrPotPABnrwg) : C++Now (previously BoostCon) conference
 - [code::dive conference](https://www.youtube.com/channel/UCU0Rt8VHO5-YNQXwIjkf-1g) : code::dive conference organized by NOKIA Wrocław Technology Center
 - [Coding Blocks](https://www.youtube.com/user/codingblocks) : Tutorials, how to's, tips and tricks
@@ -118,7 +122,8 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 
 
-### Documentaries
+
+### Documentaries :film_projector:
 - [Breaking the Code](https://ia801908.us.archive.org/27/items/youtube-S23yie-779k/) : Biography of Alan Turing
 - [Cracking The Code Interview](https://www.youtube.com/watch?v=4NIb9l3imAo) : Cracking the Code Interview
 - [Cracking the Coding Interview](https://www.youtube.com/watch?v=Eg5-tdAwclo) : Cracking the Coding Interview, Fullstack Speaker Series
