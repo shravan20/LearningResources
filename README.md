@@ -104,6 +104,20 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 - [Edureka!](https://www.youtube.com/user/edurekaIN): Mission of making learning accessible to everyone
 
 
+### Programming languages
+
+| Sl No  | Programming Language  |
+|:-:|:-:|
+| 1  | [JavaScript](programming-languages/javascript)  |
+
+### Tech-Stack Learning Resources
+
+| Sl No  | Tech-Stack  |
+|:-:|:-:|
+| 1  | [Node.js](tech-stack/nodejs)  |
+
+
+
 ### Documentaries
 - [Breaking the Code](https://ia801908.us.archive.org/27/items/youtube-S23yie-779k/) : Biography of Alan Turing
 - [Cracking The Code Interview](https://www.youtube.com/watch?v=4NIb9l3imAo) : Cracking the Code Interview
