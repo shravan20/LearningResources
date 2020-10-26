@@ -2,7 +2,7 @@
 
 - Javascript [Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript) : Documentation
 
-- Courses/Tutorials
+- #### Courses/Tutorials
   - [60+ JavaScript Tutorials & Walkthroughs](https://codeburst.io/60-javascript-tutorials-walkthroughs-cb315cc1947e) : Learn JavaScript and key concepts by exploring more than 60 organized tutorials!
   - [Recent News, Articles, Tutorials on JavaScript](https://codeburst.io/tagged/javascript) : The Ultimate Guide to Learning
   - [Javascript for Beginners (1) EDX](https://www.edx.org/course/html5-part-1-html5-coding-essentials-w3cx-html5-1x-1) :  HTML5 basic APIs
@@ -15,7 +15,7 @@
   - [JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/) : Learn all of the fundamentals of JavaScript, and have fun while doing it – with SoloLearn!
 
 
-- Articles
+- #### Articles
     - [JavaScript Closures Demystified](https://www.sitepoint.com/javascript-closures-demystified/) : Covering closures. From basics to use cases. Has useful comments.
     - [Understanding Hoisting](https://scotch.io/tutorials/understanding-hoisting-in-javascript) : Detailed explanation of the concept of hoisting in JavaScript.
     - [Array operations](https://danmartensen.svbtle.com/javascripts-map-reduce-and-filter) : Covering the usefulness of Array's map, reduce, and filter methods.
@@ -28,7 +28,7 @@
     - [Three awesome (and free) eBooks for learning JavaScript](https://codeburst.io/three-awesome-and-free-ebooks-for-learning-javascript-c874f65bbd7a) : Best Books for Learning JavaScript 
     - [JavaScript for Beginners - Understand the hard stuff](https://codeburst.io/javascript-for-beginners-a-new-series-22762d8e5c42) : JavaScript for Beginners, a collection of articles
 
-- Understanding Tougher Topics  
+- #### Understanding Tougher Topics  
   - [JavaScript - The keyword 'this' for beginners](https://codeburst.io/javascript-the-keyword-this-for-beginners-fb5238d99f85) : 'this' keyword in JS
   - [JavaScript - Arrow Functions for Beginners](https://codeburst.io/javascript-arrow-functions-for-beginners-926947fc0cdc) : Arrow Function in JS
   - [JavaScript: What the heck is a Callback?](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced) : Callback in JS
@@ -44,12 +44,12 @@
   - [Learn and Understand Recursion in JavaScript](https://codeburst.io/learn-and-understand-recursion-in-javascript-b588218e87ea) : Recursion
   - [Understand Closures in JavaScript](https://codeburst.io/understand-closures-in-javascript-d07852fa51e7) : Closures
 
-- Projects
+- #### Projects
   - [JS 30 For 30 - 30 Projects for 30 Days](https://javascript30.com/) : 30 Day Vanilla JS Coding Challenge
   - [Learn to Code with Projects - enlight.ml](https://enlight.ml/) : Learn JavaScript building projects
   - [13 Weeks of JavaScript (Medium)](https://medium.com/@___aerox___/the-beginning-of-an-adventure-13-weeks-of-javascript-78107605d533#.xgqnrstd1) - TONS of links to JS resources
 
-- Books
+- #### Books
   - [Eloquent JS](http://eloquentjavascript.net/) : Free JavaScript Ebook
   - [You don't know JS](https://github.com/getify/You-Dont-Know-JS) : Free, hosted on GitHub
   - [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) : learn about the quirky parts of JS
