@@ -30,6 +30,22 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
    * [Forem](https://github.com/forem/forem) : :seedling: Forem is open source software for building communities. Communities for your peers, customers, fanbases, families, friends, and any other time and space where people need to come together to be part of a collective.
    * [Tails](https://github.com/thedevdojo/tails) : A (no-config) copy'n paste library of hand-crafted templates and components built in TailwindCSS.
 
+
+
+### Programming languages
+
+| Sl No  | Programming Language  |
+|:-:|:-:|
+| 1  | [JavaScript](programming-languages/javascript)  |
+
+### Tech-Stack Learning Resources
+
+| Sl No  | Tech-Stack  |
+|:-:|:-:|
+| 1  | [Node.js](tech-stack/nodejs)  |
+
+
+
 ### Programming Style Guides :memo:
 
 - [Airbnb JS Style Guide](https://github.com/airbnb/javascript) : A mostly reasonable approach to JavaScript
@@ -53,6 +69,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 - [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html): Google Java Style Guide
 - [Rust Coding style](https://github.com/rust-dev-tools/fmt-rfcs): Rust code formatting RFCs and coding style guides 
  
+
  ### Fun Games :video_game:
  
    - [Hangman](https://hang-man-word-game.herokuapp.com/) : This is a fun word guessing game created using Vanilla.js. You have 6 chances to guess the word right. Give it a try.
@@ -106,20 +123,6 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
 - [Edureka!](https://www.youtube.com/user/edurekaIN): Mission of making learning accessible to everyone
-
-
-### Programming languages
-
-| Sl No  | Programming Language  |
-|:-:|:-:|
-| 1  | [JavaScript](programming-languages/javascript)  |
-
-### Tech-Stack Learning Resources
-
-| Sl No  | Tech-Stack  |
-|:-:|:-:|
-| 1  | [Node.js](tech-stack/nodejs)  |
-
 
 
 
