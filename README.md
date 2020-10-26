@@ -46,6 +46,11 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 
 
+### Recommended Courses and Tutorials :book:
+
+- [Java Tutorial for Complete Beginners](udemy.com/java-tutorial) : A very complete introduction to programming and the Java programming language.
+
+
 ### Programming Style Guides :memo:
 
 - [Airbnb JS Style Guide](https://github.com/airbnb/javascript) : A mostly reasonable approach to JavaScript
