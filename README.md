@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="100" height="80" src="./assets/logo.png">
+</p>
+
 # Learning Resources - [OhMyLearning](https://github.com/shravan20/LearningResources)
 
 <!-- HEADER -->
@@ -15,9 +19,6 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 ![alt](https://img.shields.io/apm/l/vim-mode?label=license&logo=dark-green) [![Informational](https://img.shields.io/badge/OhMyLearning-Powered--By--OhMyScript-informational)](https://ohmyscript.com/) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-success) ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)
 
 
-<p align="center">
-  <img width="100" height="80" src="./assets/logo.png">
-</p>
 <!-- HEADER -->
 
 
