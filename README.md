@@ -36,6 +36,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 | Sl No  | Programming Language  |
 |:-:|:-:|
 | 1  | [JavaScript](programming-languages/javascript)  |
+| 2  | [Java](programming-languages/java)  |
 
 ### Tech-Stack Learning Resources
 
