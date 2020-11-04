@@ -35,15 +35,15 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 | Sl No  | Programming Language  |
 |:-:|:-:|
-| 1  | [JavaScript](programming-languages/javascript)  |
-| 2  | [Java](programming-languages/java)  |
+| 1  | [Java](programming-languages/java)  |
+| 2  | [JavaScript](programming-languages/javascript)  |
 
 ### Tech-Stack Learning Resources
 
-| Sl No  | Tech-Stack  |
-|:-:|:-:|
-| 1  | [Node.js](tech-stack/nodejs)  |
-| 2  | [Spring Boot](tech-stack/springboot)
+| Sl No  | Tech-Stack  |Framework | Library | Other |
+|:-:|:-:|:-:|:-:|:-:|
+| 1  | [Node.js](tech-stack/nodejs)  | | | :ballot_box_with_check: (Server-Side Environment) |
+| 2  | [Spring Boot](tech-stack/springboot)| :ballot_box_with_check: | | |
 
 
 
