@@ -17,6 +17,7 @@
     - [Microsoft + Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) :  For people using Microsoft services and technologies to get started on the right foot with Node.js
     - [A Roadmap for Node.js Security](https://nodesecroadmap.fyi/) : This road-map by Node.js Enthusiasts discusses how some Node.js projects address security challenges, along with ways to make it easier for more projects to address these challenges in a thorough and consistent manner.
     - [Learn the Node.js Runtime Itself](https://www.freecodecamp.org/news/before-you-bury-yourself-in-packages-learn-the-node-js-runtime-itself-f9031fbd8b69/) : The article will challenge the very limits of your Node.js knowledge.
+    - [Best Practices for Express in Production](https://strongloop.com/strongblog/best-practices-for-express-in-production-part-two-performance-and-reliability/) : Some best practices for running Express applications in production
 
 - #### Understanding Tougher Topics  
   - [Why Asynchronous?](https://nodesource.com/blog/why-asynchronous/) : Defining "Asynchronous Programming"
