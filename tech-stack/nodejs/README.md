@@ -8,6 +8,8 @@
   - [Node JS: Advanced Concepts](https://www.udemy.com/course/advanced-node-for-developers/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-HiC1LUSj.H7DeYtfEft2Rg&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads) : Get advanced with Node.Js! Learn caching with Redis, speed up through clustering, and add image upload with S3 and Node!
   - [Learn Nodejs by building 12 projects](https://www.udemy.com/course/learn-nodejs-by-building-10-projects/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-nj_p9FudxWLM36cbzkPTEA&utm_medium=udemyads&utm_source=aff-campaign) : Become an Expert Nodejs Developer While Building Real World Applications
 
+- #### Articles
+    - [A Roadmap for Node.js Security](https://nodesecroadmap.fyi/) : This road-map by Node.js Enthusiasts discusses how some Node.js projects address security challenges, along with ways to make it easier for more projects to address these challenges in a thorough and consistent manner.
 
 
 
