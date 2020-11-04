@@ -3,6 +3,7 @@
 - Node.js [Docs](https://nodejs.org/en/) : Official Documentation
 
 - #### Courses/Tutorials
+  - [Node.js A to Z](https://www.youtube.com/playlist?list=PLatXnLy-YGQexU9sktggQbw7tq815yGbR) :  YouTube Playlist covering all the basic topics for Backend development in Node.js.
   - [The Complete Node.js Developer Course (3rd Edition)](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-HtOS5_AYt5_J52pcVOoQsw&utm_medium=udemyads&utm_source=aff-campaign) : Learn Node.js by building real-world applications with Node, Express, MongoDB, Jest, and more!
   - [Node JS: Advanced Concepts](https://www.udemy.com/course/advanced-node-for-developers/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-HiC1LUSj.H7DeYtfEft2Rg&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads) : Get advanced with Node.Js! Learn caching with Redis, speed up through clustering, and add image upload with S3 and Node!
   - [Learn Nodejs by building 12 projects](https://www.udemy.com/course/learn-nodejs-by-building-10-projects/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-nj_p9FudxWLM36cbzkPTEA&utm_medium=udemyads&utm_source=aff-campaign) : Become an Expert Nodejs Developer While Building Real World Applications
