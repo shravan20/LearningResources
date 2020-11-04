@@ -9,8 +9,22 @@
   - [Learn Nodejs by building 12 projects](https://www.udemy.com/course/learn-nodejs-by-building-10-projects/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-nj_p9FudxWLM36cbzkPTEA&utm_medium=udemyads&utm_source=aff-campaign) : Become an Expert Nodejs Developer While Building Real World Applications
 
 - #### Articles
+    - [The Node Way](http://thenodeway.io/) : Entire philosophy of Node.js best practices and guiding principles exists for writing maintainable modules, scalable applications, and code that is actually pleasant to read.
+    - [Portable Node.js guide](https://github.com/ehmicky/cross-platform-node-guide) : How to write cross-platform Node.js code.
+    - [You Dont Know Node](https://github.com/azat-co/you-dont-know-node) : Node is everywhere. What if the world can be a better place if more developers master Node?
+    - [Stream-Handbook](https://github.com/substack/stream-handbook): How to write Node.js programs with streams.
+    - [Module Best Practices](https://github.com/mattdesl/module-best-practices) :  This article deals specifically with front- and back-end Node/CommonJS modules hosted on npm, but the same concepts may apply elsewhere.
+    - [Microsoft + Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) :  For people using Microsoft services and technologies to get started on the right foot with Node.js
     - [A Roadmap for Node.js Security](https://nodesecroadmap.fyi/) : This road-map by Node.js Enthusiasts discusses how some Node.js projects address security challenges, along with ways to make it easier for more projects to address these challenges in a thorough and consistent manner.
+    - [Learn the Node.js Runtime Itself](https://www.freecodecamp.org/news/before-you-bury-yourself-in-packages-learn-the-node-js-runtime-itself-f9031fbd8b69/) : The article will challenge the very limits of your Node.js knowledge.
 
+- #### Understanding Tougher Topics  
+  - [Why Asynchronous?](https://nodesource.com/blog/why-asynchronous/) : Defining "Asynchronous Programming"
+  - [Understanding the Node.js Event Loop](https://nodesource.com/blog/understanding-the-nodejs-event-loop/) : This post will shed light on how the event loop operates so you too can enjoy the magic.
+
+- #### Cheat Sheets
+  - [Express.js 4 Cheatsheet](https://github.com/azat-co/cheatsheets/tree/master/express4) : Beautifully-designed print-ready PDF
+  - [Strong Node.js](https://github.com/jesusprubio/strong-node) : Exhaustive checklist to assist in a security review of a Node.js web service code.
 
 
 - #### Books
