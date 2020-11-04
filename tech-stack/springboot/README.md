@@ -1,6 +1,6 @@
 ### Learn Spring Boot
 
-- Spring Boot [Docs](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/) : Documentation
+- Spring Boot [Docs](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/) : Official Documentation
 
 - #### Courses/Tutorials
   - [Learn Spring Boot - Rapid Spring Application Development](https://www.udemy.com/course/spring-boot-intro/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-yKB7doI50JJEGb09MCDGLQ&utm_medium=udemyads&utm_source=aff-campaign) : Spring Boot gives you all the power of the Spring Framework without all of the complexity.

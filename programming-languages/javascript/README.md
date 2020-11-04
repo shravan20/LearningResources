@@ -1,6 +1,6 @@
 ### Learn JavaScript
 
-- Javascript [Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript) : Documentation
+- Javascript [Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript) : Official Documentation
 
 - #### Courses/Tutorials
   - [60+ JavaScript Tutorials & Walkthroughs](https://codeburst.io/60-javascript-tutorials-walkthroughs-cb315cc1947e) : Learn JavaScript and key concepts by exploring more than 60 organized tutorials!
