@@ -77,6 +77,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 - [Refactoring Guru](https://refactoring.guru/): Refactoring And Design Patterns
 - [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html): Google Java Style Guide
 - [Rust Coding style](https://github.com/rust-dev-tools/fmt-rfcs): Rust code formatting RFCs and coding style guides 
+- [Art of README](https://github.com/noffle/art-of-readme) : This is a guide about READMEs. About what they do, why they are an absolute necessity, and how to craft them well.
  
 
  ### Fun Games :video_game:
