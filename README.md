@@ -40,9 +40,10 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ### Tech-Stack Learning Resources
 
-| Sl No  | Tech-Stack  |Framework | Library | Other |
+| Sl No  | Tech-Stack  | Framework | Library | Other |
 |:-:|:-:|:-:|:-:|:-:|
 | 1  | [Node.js](tech-stack/nodejs)  | | | :ballot_box_with_check: (Server-Side Environment) |
+| 2  | [React.js](tech-stack/react)| | :ballot_box_with_check:  | |
 | 2  | [Spring Boot](tech-stack/springboot)| :ballot_box_with_check: | | |
 
 
