@@ -6,8 +6,11 @@
 
 <!-- HEADER -->
 ![alt](https://img.shields.io/apm/l/vim-mode?label=license&logo=dark-green) [![Informational](https://img.shields.io/badge/OhMyLearning-Powered--By--OhMyScript-informational)](https://ohmyscript.com/) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-success) ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github) ![Repository views](https://gpvc.arturio.dev/shravan20) [![GitHub contributors](https://img.shields.io/github/contributors/shravan20/LearningResources.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/contributors/)
-
+<p align="center">
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+</p>
+
+<br>
 A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
 <p align="center">
