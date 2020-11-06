@@ -19,7 +19,7 @@
   - [devmentorlive](https://www.youtube.com/c/devmentorlive/videos) : Expert JavaScript Mentorship and Training
   - [JSConf](https://www.youtube.com/user/jsconfeu/videos) : JSConf is a series of JavaScript conferences from around the world and here we release the conference talk videos for free as fast as we can after every event.
   - [Zac Gordon](https://www.youtube.com/c/ZacGordon/playlists) : This channel hosts videos from educator Zac Gordon around the topic of Learn JavaScript for WordPress. 
-
+  - [Front End Tv](https://www.youtube.com/channel/UCztRO4rG71uxuR-Tpf_biww) : Channel with bit to bit explanation on Significance of JavaScript
 
 - #### Articles
     - [JavaScript Closures Demystified](https://www.sitepoint.com/javascript-closures-demystified/) : Covering closures. From basics to use cases. Has useful comments.
