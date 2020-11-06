@@ -31,11 +31,14 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
    * [Forem](https://github.com/forem/forem) : :seedling: Forem is open source software for building communities. Communities for your peers, customers, fanbases, families, friends, and any other time and space where people need to come together to be part of a collective.
    * [Tails](https://github.com/thedevdojo/tails) : A (no-config) copy'n paste library of hand-crafted templates and components built in TailwindCSS.
 
+
 ### Domain - Learning Resources
 
 | Sl No  | Name  | Domain  | Sub-Domain |
 |:-:|:-:|:-:|:-:|
 | 1  | Artificial Intelligence  | X  |   |
+
+
 
 
 ### Programming Languages Learning Resources 
