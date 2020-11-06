@@ -39,6 +39,9 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 |:-:|:-:|
 | 1  | [Java](programming-languages/java)  |
 | 2  | [JavaScript](programming-languages/javascript)  |
+| 3  | [Python](programming-languages/python)  |
+
+
 
 ### Tech-Stack Learning Resources
 
@@ -47,6 +50,8 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 | 1  | [Node.js](tech-stack/nodejs)  | | | :ballot_box_with_check: (Server-Side Environment) |
 | 2  | [React.js](tech-stack/reactjs)| | :ballot_box_with_check:  | |
 | 3  | [Spring Boot](tech-stack/springboot)| :ballot_box_with_check: | | |
+
+
 
 
 ### Programming Style Guides :memo:
