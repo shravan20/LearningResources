@@ -49,14 +49,6 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 | 2  | [Spring Boot](tech-stack/springboot)| :ballot_box_with_check: | | |
 
 
-### Must-Read Books to be developers or problem solver :closed_book: :notebook_with_decorative_cover:
-  - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) : Revolutionary paradigm with Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin.
-  - [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073) : This book, by Robert C. Martin, is packed with practical advice–about everything from estimating and coding to refactoring and testing. It covers much more than technique: It is about attitude. 
-  - [The Pragmatic Programmer: From Journeyman to Master (Old Edition)](https://www.amazon.in/Pragmatic-Programmer-Journeyman-Master-Old/dp/020161622X) : The Pragmatic Programmer illustrates the best practices and major pitfalls of many different aspects of software development. **I will pay you, if you feel it's not worth spending money on.**
-  - [The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography](https://www.amazon.com/Code-Book-Science-Secrecy-Cryptography/dp/0385495323) : The Code Book tells the story of the most powerful intellectual weapon ever known: secrecy. Simon Singh offers the first sweeping history of encryption, tracing its evolution and revealing the dramatic effects codes have had on wars, nations, and individual lives.
-
-
-
 ### Programming Style Guides :memo:
 
 - [Airbnb JS Style Guide](https://github.com/airbnb/javascript) : A mostly reasonable approach to JavaScript
@@ -81,6 +73,15 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 - [Rust Coding style](https://github.com/rust-dev-tools/fmt-rfcs): Rust code formatting RFCs and coding style guides 
 - [Art of README](https://github.com/noffle/art-of-readme) : This is a guide about READMEs. About what they do, why they are an absolute necessity, and how to craft them well.
  
+
+
+### Must-Read Books to be developers or problem solver :closed_book: :notebook_with_decorative_cover:
+  - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) : Revolutionary paradigm with Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin.
+  - [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073) : This book, by Robert C. Martin, is packed with practical advice–about everything from estimating and coding to refactoring and testing. It covers much more than technique: It is about attitude. 
+  - [The Pragmatic Programmer: From Journeyman to Master (Old Edition)](https://www.amazon.in/Pragmatic-Programmer-Journeyman-Master-Old/dp/020161622X) : The Pragmatic Programmer illustrates the best practices and major pitfalls of many different aspects of software development. **I will pay you, if you feel it's not worth spending money on.**
+  - [The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography](https://www.amazon.com/Code-Book-Science-Secrecy-Cryptography/dp/0385495323) : The Code Book tells the story of the most powerful intellectual weapon ever known: secrecy. Simon Singh offers the first sweeping history of encryption, tracing its evolution and revealing the dramatic effects codes have had on wars, nations, and individual lives.
+
+
 
  ### Fun Games :video_game:
  
