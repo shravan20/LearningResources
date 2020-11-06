@@ -36,7 +36,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 | Sl No  | Name  | Domain  | Sub-Domain |
 |:-:|:-:|:-:|:-:|
-| 1  | Artificial Intelligence  | X  |   |
+| 1  | [Artificial Intelligence](domain-subdomain/artificial-intelligence/)  | X  |   |
 
 
 
