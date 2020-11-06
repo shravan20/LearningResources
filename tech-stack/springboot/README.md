@@ -13,6 +13,8 @@
 - #### Understanding Tougher Topics  
   - [Spring Boot Annotations](https://www.javaguides.net/2018/10/spring-boot-annotations.html) : Articles lists and describes different annotations and their packages.
 
+- #### Style Guide
+  - [Spring Boot Style Guide](https://github.com/helpermethod/spring-boot-style-guide) : Opinionated guide on developing web applications with Spring Boot. Inspired by Airbnb JavaScript Style Guide.
 
 - #### ODM/ORM
   - [Hibernate](https://docs.jboss.org/hibernate/orm/5.4/userguide/html_single/Hibernate_User_Guide.html) : More than an ORM, discover the Hibernate galaxy. Hibernate ORM.
