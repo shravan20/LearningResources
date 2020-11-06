@@ -7,6 +7,14 @@
   - [The Complete Node.js Developer Course (3rd Edition)](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-HtOS5_AYt5_J52pcVOoQsw&utm_medium=udemyads&utm_source=aff-campaign) : Learn Node.js by building real-world applications with Node, Express, MongoDB, Jest, and more!
   - [Node JS: Advanced Concepts](https://www.udemy.com/course/advanced-node-for-developers/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-HiC1LUSj.H7DeYtfEft2Rg&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads) : Get advanced with Node.Js! Learn caching with Redis, speed up through clustering, and add image upload with S3 and Node!
   - [Learn Nodejs by building 12 projects](https://www.udemy.com/course/learn-nodejs-by-building-10-projects/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-nj_p9FudxWLM36cbzkPTEA&utm_medium=udemyads&utm_source=aff-campaign) : Become an Expert Nodejs Developer While Building Real World Applications
+  - [Beginner's Series to: Node.js](https://www.youtube.com/playlist?list=PLlrxD0HtieHje-_287YJKhY8tDeSItwtg) : Series of practical, byte-sized videos about Node.js for beginners so you can get up to speed quickly
+  - [](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA) : 
+
+
+- #### YouTube Channels
+  - [The Coding Train](https://www.youtube.com/watch?v=RF5_MPSNAtU&amp;t=28s) : The Coding Train is on its way with creative coding video tutorials on subjects ranging from the basics of programming languages like JavaScript to Node.js
+  - [Traversy Media](https://www.youtube.com/c/TraversyMedia/playlists) : Traversy Media features the best online web development and programming tutorials for all of the latest web technologies including Node.js, Angular 2, React.js, PHP, Rails, HTML, CSS and much more
+  - [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w) : Academind YouTube channel has more than 400 videos based on teaching different and also explaining important concepts in Node.js.
 
 - #### Articles
     - [The Node Way](http://thenodeway.io/) : Entire philosophy of Node.js best practices and guiding principles exists for writing maintainable modules, scalable applications, and code that is actually pleasant to read.
