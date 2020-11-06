@@ -15,6 +15,12 @@
   - [JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/) : Learn all of the fundamentals of JavaScript, and have fun while doing it – with SoloLearn!
 
 
+- #### YouTube Channels
+  - [devmentorlive](https://www.youtube.com/c/devmentorlive/videos) : Expert JavaScript Mentorship and Training
+  - [JSConf](https://www.youtube.com/user/jsconfeu/videos) : JSConf is a series of JavaScript conferences from around the world and here we release the conference talk videos for free as fast as we can after every event.
+  - [Zac Gordon](https://www.youtube.com/c/ZacGordon/playlists) : This channel hosts videos from educator Zac Gordon around the topic of Learn JavaScript for WordPress. 
+
+
 - #### Articles
     - [JavaScript Closures Demystified](https://www.sitepoint.com/javascript-closures-demystified/) : Covering closures. From basics to use cases. Has useful comments.
     - [Understanding Hoisting](https://scotch.io/tutorials/understanding-hoisting-in-javascript) : Detailed explanation of the concept of hoisting in JavaScript.
