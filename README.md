@@ -94,7 +94,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 
 
- ### Fun Games :video_game:
+### Fun Games :video_game:
  
    - [Hangman](https://hang-man-word-game.herokuapp.com/) : This is a fun word guessing game created using Vanilla.js. You have 6 chances to guess the word right. Give it a try.
 
