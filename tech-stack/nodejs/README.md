@@ -1,5 +1,10 @@
 ### Learn Node.js
 
+<div style="text-align:center">
+    <img src="../assets/nodejs.png" />
+</div>
+
+
 - Node.js [Docs](https://nodejs.org/en/) : Official Documentation
 
 - #### Courses/Tutorials
