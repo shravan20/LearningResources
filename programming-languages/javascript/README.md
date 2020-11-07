@@ -1,5 +1,11 @@
 ### Learn JavaScript
 
+<div style="text-align:center">
+    <img src="../assets/javascript.png" />
+</div>
+
+
+
 - Javascript [Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript) : Official Documentation
 
 - #### Courses/Tutorials
