@@ -107,6 +107,9 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 ### Fun Games :video_game:
  
    - [Hangman](https://hang-man-word-game.herokuapp.com/) : This is a fun word guessing game created using Vanilla.js. You have 6 chances to guess the word right. Give it a try.
+   - [Skribbl](https://skribbl.io/) : skribbl.io is a free multiplayer drawing and guessing game.
+   - [Connect 4 : Multiplayer](https://www.agame.com/game/connect-4-multiplayer) : You can play against a friend or the computer in this online version of the classic game. But will you get four in a row? It’s time to find out!
+
 
 
 ### YouTube Channels :tv:
