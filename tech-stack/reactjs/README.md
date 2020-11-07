@@ -34,8 +34,10 @@
   - [A deep dive into React Context API](https://blog.logrocket.com/a-deep-dive-into-react-context-api/) : Better understanding of Context API
   - [Pass Multiple Children to a React Component with Slots](https://daveceddia.com/pluggable-slots-in-react-components/) : The article describes beautifully on how you should pass multiple childrento a react component with slots. 
   - [Render Children in React Using Fragment or Array Components](https://css-tricks.com/render-children-in-react-using-fragment-or-array-components/) : The rendering power introduced with v16 — namely, the ability to render children using Fragments and Array Components.
-
-
+  - [Atomic Design in React](https://bradfrost.com/blog/post/atomic-web-design/) : What is atomic design? Different levels: Atoms, Molecules, Organisms, Templates, Pages
+  - [React Concept: Composition](https://flaviocopes.com/react-composition/) : Understand what is composition and why is it a key concept in your React apps.
+  - [Stateful vs. Stateless Functional Components in React](https://code.tutsplus.com/tutorials/stateful-vs-stateless-functional-components-in-react--cms-29541) : Different component classifications have been covered such as class vs. functional components, stateful vs. stateless components, and container vs. presentational components. 
+  - [Declarative vs Imperative Programming in React](https://codeburst.io/declarative-vs-imperative-programming-a8a7c93d9ad2) : Understand Declarative vs Imperative Programming in React
 
 
 - #### Books
