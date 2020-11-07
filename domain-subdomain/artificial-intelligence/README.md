@@ -1,5 +1,8 @@
 ### Learn Artificial Intelligence
 
+<div style="text-align:center">
+    <img src="../assets/ai.png" />
+</div>
 
 - #### Courses/Tutorials
     - [MIT: Intro to Deep Learning](https://introtodeeplearning.com) - A seven day bootcamp designed in MIT to introduce deep learning methods and applications
