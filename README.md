@@ -15,7 +15,7 @@
 
 
 <!-- HEADER -->
-![alt](https://img.shields.io/apm/l/vim-mode?label=license&logo=dark-green) [![Informational](https://img.shields.io/badge/OhMyLearning-Powered--By--OhMyScript-informational)](https://ohmyscript.com/) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-success) ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github) ![Repository views](https://gpvc.arturio.dev/shravan20) [![GitHub contributors](https://img.shields.io/github/contributors/shravan20/LearningResources.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/contributors/)
+![alt](https://img.shields.io/apm/l/vim-mode?label=license&logo=dark-green) [![Informational](https://img.shields.io/badge/OhMyLearning-Powered--By--OhMyScript-informational)](https://ohmyscript.com/) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-success) ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github) ![Repository views](https://gpvc.arturio.dev/shravan20) [![GitHub contributors](https://img.shields.io/github/contributors/shravan20/LearningResources.svg)](https://github.com/shravan20/LearningResources/graphs/contributors)
 
 
 <br>
