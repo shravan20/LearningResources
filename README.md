@@ -15,7 +15,7 @@
 
 
 <!-- HEADER -->
-![alt](https://img.shields.io/apm/l/vim-mode?label=license&logo=dark-green) [![Informational](https://img.shields.io/badge/OhMyLearning-Powered--By--OhMyScript-informational)](https://ohmyscript.com/) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-success) ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github) ![Repository views](https://gpvc.arturio.dev/shravan20) [![GitHub contributors](https://img.shields.io/github/contributors/shravan20/LearningResources.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/contributors/)
+![alt](https://img.shields.io/apm/l/vim-mode?label=license&logo=dark-green) [![Informational](https://img.shields.io/badge/OhMyLearning-Powered--By--OhMyScript-informational)](https://ohmyscript.com/) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-success) ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github) ![Repository views](https://gpvc.arturio.dev/shravan20) [![GitHub contributors](https://img.shields.io/github/contributors/shravan20/LearningResources.svg)](https://github.com/shravan20/LearningResources/graphs/contributors)
 
 
 <br>
@@ -102,9 +102,14 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
   - [The Pragmatic Programmer: From Journeyman to Master (Old Edition)](https://www.amazon.in/Pragmatic-Programmer-Journeyman-Master-Old/dp/020161622X) : The Pragmatic Programmer illustrates the best practices and major pitfalls of many different aspects of software development. **I will pay you, if you feel it's not worth spending money on.**
   - [The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography](https://www.amazon.com/Code-Book-Science-Secrecy-Cryptography/dp/0385495323) : The Code Book tells the story of the most powerful intellectual weapon ever known: secrecy. Simon Singh offers the first sweeping history of encryption, tracing its evolution and revealing the dramatic effects codes have had on wars, nations, and individual lives.
 
+
+
 ### Fun Games :video_game:
  
    - [Hangman](https://hang-man-word-game.herokuapp.com/) : This is a fun word guessing game created using Vanilla.js. You have 6 chances to guess the word right. Give it a try.
+   - [Skribbl](https://skribbl.io/) : skribbl.io is a free multiplayer drawing and guessing game.
+   - [Connect 4 : Multiplayer](https://www.agame.com/game/connect-4-multiplayer) : You can play against a friend or the computer in this online version of the classic game. But will you get four in a row? It’s time to find out!
+
 
 
 ### YouTube Channels :tv:
