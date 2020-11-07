@@ -20,6 +20,10 @@
   - [How Does setState Know What to Do?](https://overreacted.io/how-does-setstate-know-what-to-do/) : When you call setState in a component, what do you think happens?
   - [Understanding React `setState`](https://css-tricks.com/understanding-react-setstate/) : Understanding when and how to change the state of your component is important and know how setState works, and be able to avoid common pitfalls that many of us hit when when learning React.
   - [The definite guide to lifecycle events!](https://react.christmas/2017/22) : Understanding what React calls as lifecycle methods. This article will give you a firm grip on when you want to use what.
+  - [Understanding the Virtual DOM](https://bitsofco.de/understanding-the-virtual-dom/) : “Virtual DOM” is a concept popularized by React, although the concept has been around for several years.
+  - [HOW REACT VIRTUAL DOM WORKS: WHY IS IT (SO MUCH) FASTER THAN THE “REAL” DOM?](https://www.optasy.com/blog/how-react-virtual-dom-works-why-it-so-much-faster-real-dom) : What's the deal with the virtual DOM? How React virtual DOM works precisely?
+  - [How Virtual-DOM and diffing works in React](https://medium.com/@gethylgeorge/how-virtual-dom-and-diffing-works-in-react-6fc805f9f84e) : Understand how virtual DOM works and on an high level how is it build
+  - [What is React Reconciliation? How React Reconciliation Works?](https://css-tricks.com/how-react-reconciliation-works/) : Familiarize yourself with how this amazing library updates the DOM of your application
   - [Mastering Props And PropTypes In React](https://www.smashingmagazine.com/2020/08/mastering-props-proptypes-react/) : Understanding Props and PropTypes with examples. 
   - [A deep dive into React Context API](https://blog.logrocket.com/a-deep-dive-into-react-context-api/) : Better understanding of Context API
   - [Pass Multiple Children to a React Component with Slots](https://daveceddia.com/pluggable-slots-in-react-components/) : The article describes beautifully on how you should pass multiple childrento a react component with slots. 
