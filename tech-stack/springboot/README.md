@@ -21,9 +21,6 @@
 - #### Style Guide
   - [Spring Boot Style Guide](https://github.com/helpermethod/spring-boot-style-guide) : Opinionated guide on developing web applications with Spring Boot. Inspired by Airbnb JavaScript Style Guide.
 
-- #### ODM/ORM
-  - [Hibernate](https://docs.jboss.org/hibernate/orm/5.4/userguide/html_single/Hibernate_User_Guide.html) : More than an ORM, discover the Hibernate galaxy. Hibernate ORM.
-
 
 - #### Books
   - [Learning Spring Boot 2.0 2nd Edition](https://github.com/learning-spring-boot/learning-spring-boot-2nd-edition-code) : Learn how to use Spring Boot to build apps faster than ever before
