@@ -102,6 +102,9 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
   - [The Pragmatic Programmer: From Journeyman to Master (Old Edition)](https://www.amazon.in/Pragmatic-Programmer-Journeyman-Master-Old/dp/020161622X) : The Pragmatic Programmer illustrates the best practices and major pitfalls of many different aspects of software development. **I will pay you, if you feel it's not worth spending money on.**
   - [The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography](https://www.amazon.com/Code-Book-Science-Secrecy-Cryptography/dp/0385495323) : The Code Book tells the story of the most powerful intellectual weapon ever known: secrecy. Simon Singh offers the first sweeping history of encryption, tracing its evolution and revealing the dramatic effects codes have had on wars, nations, and individual lives.
 
+###  Open APIs :
+- [REQ | RES](https://reqres.in/) : Hosted REST-API ready to respond to your AJAX requests.
+
 
 
 ### Fun Games :video_game:
