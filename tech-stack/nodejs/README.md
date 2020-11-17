@@ -55,5 +55,6 @@
   - [Practical Node.js: Building Real-World Scalable Web Apps](https://github.com/azat-co/practicalnode) : Practical Node.js, 1st and 2nd Editions [Apress] 
   - [The Node Beginner Book](http://nodebeginner.org) : Book to get you started with developing applications with Node.js, teaching you everything you need to know about "advanced" JavaScript along the way
   - [Node.js Design Patterns by Mario Casciaro](https://github.com/PacktPublishing/Node.js_Design_Patterns_Second_Edition_Code) :  Book Advanced level on Node.js Design Patterns 
+  
 
 
