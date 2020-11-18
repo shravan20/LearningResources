@@ -103,7 +103,9 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
   - [The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography](https://www.amazon.com/Code-Book-Science-Secrecy-Cryptography/dp/0385495323) : The Code Book tells the story of the most powerful intellectual weapon ever known: secrecy. Simon Singh offers the first sweeping history of encryption, tracing its evolution and revealing the dramatic effects codes have had on wars, nations, and individual lives.
 
 ###  Open APIs :
+- [Public API's](https://github.com/public-apis/public-apis#development) : Github Link for all the popular public API's.
 - [REQ | RES](https://reqres.in/) : Hosted REST-API ready to respond to your AJAX requests.
+- [CountAPI](https://countapi.xyz/) :  This API allows you to create simple numeric counters. IaaS, Integer as a Service.
 
 
 
