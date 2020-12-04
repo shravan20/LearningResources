@@ -120,16 +120,16 @@ with Floyd Smith(Nginx), is having set of articles which contain information abo
 
 ### Popular News websites for programmers
 
- - [Hacker News](news.ycombinator.com)
- - [Hackernoon](hackernoon.com)
- - [Lobsters](https://lobste.rs/)
- - [Product Hunt](producthunt.com)
- - [TechCrunch](techcrunch.com)
- - [XDA-Developers](xda-developers.com)
- - [dev-Community](dev.to)
- - [HashNode](hashnode.com)
- - [Smashing Magazine](smashingmagazine.com)
- - [freeCodeCamp News](freecodecamp.org/news)
+ - [Hacker News](news.ycombinator.com) : Hacker News is a social news website focusing on computer science and entrepreneurship
+ - [Hackernoon](hackernoon.com) : Hacker Noon reflects the technology industry with unfettered stories and opinions written by real tech professionals
+ - [Lobsters](https://lobste.rs/) : Lobsters is a computing-focused community centered around link
+ - [Product Hunt](producthunt.com) : Product Hunt surfaces the best new products, every day. It's a place for product-loving enthusiasts to share and geek out about the latest mobile apps, websites, hardware projects, and tech creations.
+ - [TechCrunch](techcrunch.com) : Reporting on the business of technology, startups, venture capital funding, and Silicon Valley.
+ - [XDA-Developers](xda-developers.com) :  XDA-Developers is now a valuable resource for people who want to make the most of their mobile devices, from customizing the look and feel to adding new functionality.
+ - [dev-Community](dev.to) : DEV is a community of software developers getting together to help one another out. The software industry relies on collaboration and networked learning.
+ - [HashNode](hashnode.com) : Hashnode is a free content creation platform and community that allows you to publish articles on your own domain and helps you stay connected with a growing developer community.
+ - [Smashing Magazine](smashingmagazine.com) : mashing Magazine is always expanding to provide more quality content for professionals working in web design.
+ - [freeCodeCamp News](freecodecamp.org/news) :  To help people learn to code for free, accomplished by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. 
 
 
 ### YouTube Channels :tv:
