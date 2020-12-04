@@ -117,6 +117,18 @@ with Floyd Smith(Nginx), is having set of articles which contain information abo
    - [Skribbl](https://skribbl.io/) : skribbl.io is a free multiplayer drawing and guessing game.
    - [Connect 4 : Multiplayer](https://www.agame.com/game/connect-4-multiplayer) : You can play against a friend or the computer in this online version of the classic game. But will you get four in a row? It’s time to find out!
 
+### Popular News websites for programmers
+
+ - [Hacker News](news.ycombinator.com)
+ - [Hackernoon](hackernoon.com)
+ - [Lobsters](https://lobste.rs/)
+ - [Product Hunt](producthunt.com)
+ - [TechCrunch](techcrunch.com)
+ - [XDA-Developers](xda-developers.com)
+ - [dev-Community](dev.to)
+ - [HashNode](hashnode.com)
+ - [Smashing Magazine](smashingmagazine.com)
+ - [freeCodeCamp News](freecodecamp.org/news)
 
 
 ### YouTube Channels :tv:
