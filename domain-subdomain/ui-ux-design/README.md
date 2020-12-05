@@ -48,7 +48,7 @@
   - [Patternico](https://patternico.com) : Seamless Pattern Maker 
   - [Freellustrations](https://freellustrations.com/) : Free Background Images for awesome landing Pages 
   - [Pixeltrue Illustrations](https://www.pixeltrue.com/illustrations) : Free Animated Illustrations 
-  - [Abstract User Avatar API](https://www.abstractapi.com/user-avatar-api) | API to create simple yet flexible user avatars from user names or emails 
+  - [Abstract User Avatar API](https://www.abstractapi.com/user-avatar-api) : API to create simple yet flexible user avatars from user names or emails 
   - [sketchvalley](https://sketchvalley.com/) : Download free PNG, SVG or AI file . 
   - [PatternPad](https://patternpad.com/) : free and unlimited unique pattern designs. 
   - [Dimensions](https://www.dimensions.com/) : Dimensions.com is an ongoing reference database of dimensioned drawings documenting the standard measurements and sizes of the everyday objects and spaces
@@ -66,7 +66,7 @@
   - [Icons8](https://icons8.com/) : Free icons, photos, vectors and tools 
   - [Flat Icon](https://www.flaticon.com/) : The largest database of free icons in PNG, SVG, EPS, PSD and BASE 64 formats  
   - [The Noun Project](https://thenounproject.com/) : Over 2 Million curated icons, created by a global community 
-  - [Iconscout](https://iconscout.com/)| Free Download Icons illustrations stock photos at one place  
+  - [Iconscout](https://iconscout.com/) : Free Download Icons illustrations stock photos at one place  
   - [IconSear.ch](https://iconsear.ch/search.html) : Search engine with over 50,000 SVG icons indexed 
   - [Nucleo App](https://nucleoapp.com/) : Nucleo is a beautiful library of 27500 icons, and a powerful application to collect, customize and export all your icons. (Free & Paid) 
   - [Icon-icons.com](https://icon-icons.com/) : Free Icons PNG, ICO, ICNS and Vector file SVG 
@@ -89,7 +89,7 @@
   - [Ikonate](https://ikonate.com/) : Fully customizable & accessible vector icons 
   - [appicon](https://appicon.co/) : Quickly generate app icons in different sizes for your IOS, macOS and Android projects
   - [LineIcons](https://lineicons.com) : 2000+ Essential Line Icons for Designers and Developers 
-  - [Evericons](https://www.figma.com/resources/assets/evericons-for-figma/) : Evericons is a big pack of over 460 free icons designed by Aleksey Popov. |
+  - [Evericons](https://www.figma.com/resources/assets/evericons-for-figma/) : Evericons is a big pack of over 460 free icons designed by Aleksey Popov. 
   - [SVG Repo](https://www.svgrepo.com/) : Download free SVG Vectors for commercial use. 
   - [Convertio](https://convertio.co/png-svg/) : Convert PNG files to SVG online & free. (One of the services provided by it.) 
   - [CSS ICON](https://cssicon.space/) : Icon set made with pure css code, no dependencies, "grab and go" icons 
@@ -98,6 +98,6 @@
   - [IconPark](https://github.com/bytedance/IconPark) : Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons 
   - [Radix Icons](https://icons.modulz.app/) : Set of a crisp set of 15×15 icons designed by the Modulz team. All icons available as individual react component,SVG and more. 
   - [EOS Icons](https://icons.eosdesignsystem.com/) : Set of a pixel-perfect, open source iconic font available as ligature and SVG. 
-  - [Ionicons](https://ionicons.com) | Beautifully crafted open source icons for use in web, iOS, Android, and desktop apps. 
+  - [Ionicons](https://ionicons.com) : Beautifully crafted open source icons for use in web, iOS, Android, and desktop apps. 
   - [Phosphor Icons](https://phosphoricons.com) : Phosphor is a flexible icon family for interfaces, diagrams, presentations
 
