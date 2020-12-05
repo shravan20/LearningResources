@@ -19,6 +19,12 @@
   - [UX Salon](https://www.youtube.com/c/UXSalon/videos) : We love User Experience Design. This channel is dedicated to highlight selected talks from our events.
   - [AJ&Smart](https://www.youtube.com/c/AJSmart/videos) : Work with some of the biggest companies in the world to help them build better products faster.  It's goal is to give you as much value as possible here on this Youtube channel.
 
+- #### Understanding Tougher Topics  
+  - [Laws of UX](https://lawsofux.com/) : It is a collection of the maxims and principles that designers can consider when building user interfaces.
+  - [Atlassian Design](https://atlassian.design/) : Use Atlassian’s end-to-end design language to create simple, intuitive and beautiful experiences.
+  - [inVision](https://www.invisionapp.com/inside-design/design-resources/) : Browse our library of free, high-quality UI kits, icon packs, and mockups.
+  - [Bulbman-Art](https://bulbman.art/) : Free Artistic Illustrations for Designers
+
 - #### UI Graphics: Websites and resources with modern UI components in different formats such as PSD, Sketch, Figma
   - [UI Design Daily](https://uidesigndaily.com/) :  Awesome UI Components of all types 
   - [100 Daily UI](https://100dailyui.webflow.io/) : Free Figma library of products, elements, and screens
