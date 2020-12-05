@@ -48,6 +48,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 | Sl No  | Name  | Domain  | Sub-Domain |
 |:-:|:-:|:-:|:-:|
 | 1  | [Artificial Intelligence](domain-subdomain/artificial-intelligence/)  | X  |   |
+| 2  | [UI/UX Design](domain-subdomain/ui-ux-design)  | X  |   |
 
 
 
