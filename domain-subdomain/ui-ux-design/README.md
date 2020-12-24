@@ -1,7 +1,7 @@
 ### Learn Artificial Intelligence
 
 <div style="text-align:center">
-    <img src="../assets/ui-ux.png" />
+    <img src="../assets/ui-ux.png"/>
 </div>
 
 - #### Courses/Tutorials
