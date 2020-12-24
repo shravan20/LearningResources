@@ -25,6 +25,13 @@
   - [inVision](https://www.invisionapp.com/inside-design/design-resources/) : Browse our library of free, high-quality UI kits, icon packs, and mockups.
   - [Bulbman-Art](https://bulbman.art/) : Free Artistic Illustrations for Designers
 
+- #### Newsletters
+  - [UI Dev Newsletter](https://mentor.silvestar.codes/reads) : Hand-curated list of articles, tutorials, opinions, and tools related to User Interface development
+  - [Unreadit/Frontend](https://unreadit.com/n/frontend/) : Best frontend development news sourced from the best subreddits.
+  - [Friday Front-end](https://zendev.com/friday-frontend.html) : 15 great Front-end articles, tutorials, and announcements every Friday. Sections for CSS/SCSS, JavaScript, and other awesome stuff.
+  - [Dev Tips](https://umaar.com/dev-tips/) :  Developer tip, in the form of a gif, in your inbox each week
+  - [Bytes](https://ui.dev/newsletters/bytes/) : Fun, lighthearted newsletter that covers new releases, emerging trends, and everything else you need to know about the present and future of the JavaScript ecosystem.
+
 - #### UI Graphics: Websites and resources with modern UI components in different formats such as PSD, Sketch, Figma
   - [UI Design Daily](https://uidesigndaily.com/) :  Awesome UI Components of all types 
   - [100 Daily UI](https://100dailyui.webflow.io/) : Free Figma library of products, elements, and screens
