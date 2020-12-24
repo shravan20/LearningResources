@@ -13,6 +13,10 @@
   - [Code 15 React Projects - Complete Course](https://www.youtube.com/watch?v=a_7Z7C_JCyo) : Improve your skills with the React JavaScript library by building 15 projects using React.
 
 
+- #### YouTube Channels
+  - [https://www.youtube.com/channel/UCP_lo1MFyx5IXDeD9s_6nUw](https://www.youtube.com/playlist?list=PLb0IAmt7-GS1cbw4qonlQztYV1TAW0sCr) : Facebook's official developers channel on YouTube, learn how to grow your apps with Facebook by watching our videos
+  - [Fun Fun Function](https://www.youtube.com/c/funfunfunction/featured) : Full-time programmer for about ten years. Among others, worked for Absolut Vodka, Blackberry and Spotify.
+
 - #### Understanding Tougher Topics
   - [Diving into the new JSX transform](https://blog.logrocket.com/diving-into-the-new-jsx-transform/) : This article will tell you what you need to know in order to migrate both your code and knowledge to this new way of doing things.
   - [What is JSX?](https://kentcdodds.com/blog/what-is-jsx) : Better understanding of JSX in React.
