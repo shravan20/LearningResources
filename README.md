@@ -42,6 +42,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
   - [Tails](https://github.com/thedevdojo/tails) : A (no-config) copy'n paste library of hand-crafted templates and components built in TailwindCSS.
   - [Dynamic-Github-README-Quotes](https://github.com/shravan20/github-readme-quotes) : Dynamic quote generator for your GitHub Profile READMEs
   - [custom-input-types](https://github.com/atish31/custom-input-types) : Custom Input Types lets you use customised input types without writing any JavaScript for yourself
+  - [Software-Installation-Guide](https://github.com/shravan20/software-installation-guides) : Installation Guide for various development software, tools and packages
 
 
 ### Domain - Learning Resources
