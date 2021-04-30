@@ -34,7 +34,16 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 <!-- YOUR_CONTENT_GOES_HERE -->
 
-### Open Source Projects Available for Contributions
+### Where can I find Open Source Projects Available for Contributions
+  - [Good First Issue](https://goodfirstissue.dev/) : Good First Issue curates **easy pickings** from popular open-source projects, and helps you make your first contribution to open-source.
+  - [Good First Issues](https://goodfirstissues.com/) : Good First Issues is a site that aggregates the **latest issues** with the label “Good First Issue”, which is a GitHub feature for finding easy issues to tackle. 
+  - [Code Triage](https://www.codetriage.com/) : Code Triage helps you subscribe to your favorite open-source projects and get a new open issue from them in your inbox every day.
+  - [First Contributions](https://firstcontributions.github.io/) : Make your first open source contribution in 5 minutes
+  - [First Timers Only](https://www.firsttimersonly.com/) : Friendly Open Source projects should reserve specific issues for newbies.
+
+
+
+### List of Open Source Projects Available for Contributions
 
   - [hoppscotch](https://github.com/hoppscotch/hoppscotch) : :alien: A free, fast and beautiful API request builder used by 80k+ developers.
   - [Hangman](https://github.com/nishantpersonal/hangman) : This is a fun word guessing game created using Vanilla.js.You have 6 chances to guess the word right. Fork and Work Around.
