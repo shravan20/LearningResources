@@ -40,6 +40,10 @@
     - [Three awesome (and free) eBooks for learning JavaScript](https://codeburst.io/three-awesome-and-free-ebooks-for-learning-javascript-c874f65bbd7a) : Best Books for Learning JavaScript 
     - [JavaScript for Beginners - Understand the hard stuff](https://codeburst.io/javascript-for-beginners-a-new-series-22762d8e5c42) : JavaScript for Beginners, a collection of articles
 
+- #### Concepts Visualizer
+  -  [Loupe-LatentFlip](http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D) : Loupe is a little visualisation to help you understand how JavaScript's call stack/event loop/callback queue interact with each other.
+  -  [JavaScript Visualizer 9000](https://www.jsv9000.app/) : Give visual details and explanation of the program flow, with various concepts like micro/macro tasks and its asynchonrous process. Inspired by Loupe.
+
 - #### Understanding Tougher Topics  
   - [JavaScript - The keyword 'this' for beginners](https://codeburst.io/javascript-the-keyword-this-for-beginners-fb5238d99f85) : 'this' keyword in JS
   - [JavaScript - Arrow Functions for Beginners](https://codeburst.io/javascript-arrow-functions-for-beginners-926947fc0cdc) : Arrow Function in JS
