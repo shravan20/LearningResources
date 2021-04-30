@@ -31,6 +31,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 <!-- HEADER -->
 
+---
 
 <!-- YOUR_CONTENT_GOES_HERE -->
 
