@@ -41,7 +41,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
   - [Code Triage](https://www.codetriage.com/) : Code Triage helps you subscribe to your favorite open-source projects and get a new open issue from them in your inbox every day.
   - [First Contributions](https://firstcontributions.github.io/) : Make your first open source contribution in 5 minutes
   - [First Timers Only](https://www.firsttimersonly.com/) : Friendly Open Source projects should reserve specific issues for newbies.
-
+  - [Up For Grabs](https://up-for-grabs.net/#/) :  **Up-for-Grabs** is a site that aggregates (rolls up and makes easy to explore) projects that actively want help. They label those projects with things like “up-for-grabs”, “jump-in” or “help wanted.”
 
 
 ### List of Open Source Projects Available for Contributions
