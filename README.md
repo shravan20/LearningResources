@@ -54,6 +54,20 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
   - [custom-input-types](https://github.com/atish31/custom-input-types) : Custom Input Types lets you use customised input types without writing any JavaScript for yourself
   - [Software-Installation-Guide](https://github.com/shravan20/software-installation-guides) : Installation Guide for various development software, tools and packages
 
+### Resume Builder
+
+  - [JSON Resume](https://jsonresume.org/) : The open source initiative to create a JSON-based standard for resumes. For developers, by developers.
+  - [resumake](https://resumake.io/) : Resumake is a tool for automatically generating beautiful resumes.
+  - [WTF Resume](https://wtfresume.com/resume-builder) : Modern real-time design and 100% free resume builder.
+  - [flowCV](https://flowcv.io/) : Quickly build a beautiful resume online: start by using one of our free templates, then customize it with a live preview and get tips on its content and formatting.
+  - [Resuminator](https://resuminator.in/) : Resuminator allows you to build beautiful single-page resumes; without the hassle. The easiest resume-builder out there with intuitive drag-n-drop & WYSIWYG editor.
+  - [Resume-Generator](https://nitish6174.github.io/resume-generator/) : Web based editor to create Resume in a customizable template
+  - [Tech Resume](https://main.doo2i0aqct9l.amplifyapp.com/) : Effortlessly make a job-worthy resume
+
+
+
+
+
 
 ### Domain - Learning Resources
 
