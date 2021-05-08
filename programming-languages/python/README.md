@@ -24,17 +24,17 @@
 
 
 - #### Newsletters
- - [Awesome Python Newsletter](https://python.libhunt.com/newsletter) : Weekly overview of the most popular Python news, articles and packages
- - [The PyCoder’s Weekly](https://pycoders.com/) : Free, weekly e-mail newsletter for those interested in Python development and various topics around Python and the communi‍‍‍ty
- - [Improve Your Python With:🐍 Python Tricks](https://realpython.com/python-tricks/) : Get a short & sweet Python Trick delivered to your inbox every couple of days
- - [Python Weekly](https://www.pythonweekly.com/) : Free weekly newsletter featuring the best hand curated news, articles, new releases, tools and libraries, events etc related to Python
+     - [Awesome Python Newsletter](https://python.libhunt.com/newsletter) : Weekly overview of the most popular Python news, articles and packages
+     - [The PyCoder’s Weekly](https://pycoders.com/) : Free, weekly e-mail newsletter for those interested in Python development and various topics around Python and the communi‍‍‍ty
+     - [Improve Your Python With:🐍 Python Tricks](https://realpython.com/python-tricks/) : Get a short & sweet Python Trick delivered to your inbox every couple of days
+     - [Python Weekly](https://www.pythonweekly.com/) : Free weekly newsletter featuring the best hand curated news, articles, new releases, tools and libraries, events etc related to Python
  
 - #### Podcasts
- - [Django Chat](https://djangochat.com/) : Podcast on the Django Web Framework by William Vincent and Carlton Gibson
- - [Podcast.__init__](https://www.pythonpodcast.com/) : Aims to make a podcast for the Python community that is helpful, informative, and entertaining. By answering this survey you can help us find out how well we are achieving those goals.
- - [PythonBytes](https://pythonbytes.fm/) : Python headlines delivered directly to your earbuds
- - [Running in Production](https://runninginproduction.com/) : Podcast where folks talk about running small & large web apps in production. Topics include tech stacks, lessons learned and DevOps / deployment tips.
- - [Talk Python To Me](https://talkpython.fm/) : A podcast on Python and related technologies
- - [Test & Code](https://testandcode.com/) :Python Testing for Software Engineering Because Software Engineering should include more testing
- - [The Real Python Podcast](https://realpython.com/podcasts/rpp/) : Python Tips, Interviews, and More
+     - [Django Chat](https://djangochat.com/) : Podcast on the Django Web Framework by William Vincent and Carlton Gibson
+     - [Podcast.__init__](https://www.pythonpodcast.com/) : Aims to make a podcast for the Python community that is helpful, informative, and entertaining. By answering this survey you can help us find out how well we are achieving those goals.
+     - [PythonBytes](https://pythonbytes.fm/) : Python headlines delivered directly to your earbuds
+     - [Running in Production](https://runninginproduction.com/) : Podcast where folks talk about running small & large web apps in production. Topics include tech stacks, lessons learned and DevOps / deployment tips.
+     - [Talk Python To Me](https://talkpython.fm/) : A podcast on Python and related technologies
+     - [Test & Code](https://testandcode.com/) :Python Testing for Software Engineering Because Software Engineering should include more testing
+     - [The Real Python Podcast](https://realpython.com/podcasts/rpp/) : Python Tips, Interviews, and More
  
