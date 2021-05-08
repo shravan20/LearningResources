@@ -37,4 +37,10 @@
      - [Talk Python To Me](https://talkpython.fm/) : A podcast on Python and related technologies
      - [Test & Code](https://testandcode.com/) :Python Testing for Software Engineering Because Software Engineering should include more testing
      - [The Real Python Podcast](https://realpython.com/podcasts/rpp/) : Python Tips, Interviews, and More
+
+- #### Books
+    -  [Dive into Python 3](https://diveintopython3.net/) : Dive Into Python 3 covers Python 3 and its differences from Python 2. Compared to Dive Into Python, it’s about 20% revised and 80% new material.
+    -  [Invent with Python](https://inventwithpython.com/) : Invent with Python by Al Sweigart, he is a professional software developer who teaches programming to kids and adults. Sweigart has written several bestselling programming books for beginners
+    -  [Think Python](https://greenteapress.com/wp/think-python/) : Think Python is an introduction to Python programming for beginners. It starts with basic concepts of programming, and is carefully designed to define all terms when they are first used and to develop each new concept in a logical progression.
+    -  [Automate The Boring Stuff](https://automatetheboringstuff.com/) : The best part of programming is the triumph of seeing the machine do something useful. Automate the Boring Stuff with Python frames all of programming as these small triumphs; it makes the boring fun.
  
