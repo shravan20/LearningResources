@@ -239,6 +239,8 @@ _______
 - [GATE exam - NPTEL contents](https://www.apoorvpanse.co.in/iitiisc-nptel)
 - [GATE exam - Applied Roots CS-IT Roadmap](https://gate.appliedroots.com/courses)
  
+_______
+
 <!-- YOUR_CONTENT_GOES_HERE -->
 
 
