@@ -234,6 +234,10 @@ with Floyd Smith(Nginx), is having set of articles which contain information abo
 
 _______
  
+### GATE : Entrance Exam
+
+- [GATE exam - NPTEL contents](https://www.apoorvpanse.co.in/iitiisc-nptel)
+- [GATE exam - Applied Roots CS-IT Roadmap](https://gate.appliedroots.com/courses)
  
 <!-- YOUR_CONTENT_GOES_HERE -->
 
