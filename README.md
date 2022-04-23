@@ -2,7 +2,7 @@
   <img width="100" height="80" src="./assets/logo.png">
 </p>
 
-# Learning Resources - [OhMyLearning](https://github.com/shravan20/LearningResources)
+# [Learning Resources - OhMyLearning](https://github.com/shravan20/LearningResources)
 
 <!-- COVER IMAGE -->
 
