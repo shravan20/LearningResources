@@ -1,4 +1,4 @@
-### Learn Artificial Intelligence
+### Learn UI/UX Design
 
 <div style="text-align:center">
     <img src="../assets/ui-ux.png"/>
@@ -18,6 +18,8 @@
   - [UXLx - User Experience Lisbon](https://www.youtube.com/channel/UCvoEJgCYu1e6kvUvx7lN7kw) : Premier UX Conference in Lisbon, Portugal, with editions in 2010, 2011, 2012, 2013, 2014, 2015, 2016 and planned for 2017.
   - [UX Salon](https://www.youtube.com/c/UXSalon/videos) : We love User Experience Design. This channel is dedicated to highlight selected talks from our events.
   - [AJ&Smart](https://www.youtube.com/c/AJSmart/videos) : Work with some of the biggest companies in the world to help them build better products faster.  It's goal is to give you as much value as possible here on this Youtube channel.
+  - [Figma Crash Course](https://www.figmacrashcourse.com/) : Deep dives into powerful Figma features. We’ll skip the basics and get into the nitty-gritty of prototyping, auto-layout, systems, and illustration.
+
 
 - #### Understanding Tougher Topics  
   - [Laws of UX](https://lawsofux.com/) : It is a collection of the maxims and principles that designers can consider when building user interfaces.
