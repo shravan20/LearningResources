@@ -50,7 +50,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 ### List of Open Source Projects Available for Contributions
 
   - [hoppscotch](https://github.com/hoppscotch/hoppscotch) : :alien: A free, fast and beautiful API request builder used by 80k+ developers.
-  - [Hangman](https://github.com/nishantpersonal/hangman) : This is a fun word guessing game created using Vanilla.js.You have 6 chances to guess the word right. Fork and Work Around.
+  - [Resume Matcher](https://github.com/srbhr/Resume-Matcher) : The Resume Matcher takes your resume and job descriptions as input, parses them using Python, and mimics the functionalities of an ATS, providing you with insights and suggestions to make your resume ATS-friendly.
   - [Forem](https://github.com/forem/forem) : :seedling: Forem is open source software for building communities. Communities for your peers, customers, fanbases, families, friends, and any other time and space where people need to come together to be part of a collective.
   - [Tails](https://github.com/thedevdojo/tails) : A (no-config) copy'n paste library of hand-crafted templates and components built in TailwindCSS.
   - [Dynamic-Github-README-Quotes](https://github.com/shravan20/github-readme-quotes) : Dynamic quote generator for your GitHub Profile READMEs
@@ -59,6 +59,7 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ### Resume Builder
 
+  - [Resume Matcher](www.resumematcher.fyi/) : Open Source Free ATS Tool to compare Resumes with Job Descriptions and create a score to rank them.
   - [JSON Resume](https://jsonresume.org/) : The open source initiative to create a JSON-based standard for resumes. For developers, by developers.
   - [resumake](https://resumake.io/) : Resumake is a tool for automatically generating beautiful resumes.
   - [WTF Resume](https://wtfresume.com/resume-builder) : Modern real-time design and 100% free resume builder.
@@ -66,9 +67,6 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
   - [Resuminator](https://resuminator.in/) : Resuminator allows you to build beautiful single-page resumes; without the hassle. The easiest resume-builder out there with intuitive drag-n-drop & WYSIWYG editor.
   - [Resume-Generator](https://nitish6174.github.io/resume-generator/) : Web based editor to create Resume in a customizable template
   - [Tech Resume](https://main.doo2i0aqct9l.amplifyapp.com/) : Effortlessly make a job-worthy resume
-
-
-
 
 
 
