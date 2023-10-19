@@ -40,7 +40,10 @@ A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,
 
 ### Where can I find Open Source Projects Available for Contributions
   - [Good First Issue](https://goodfirstissue.dev/) : Good First Issue curates **easy pickings** from popular open-source projects, and helps you make your first contribution to open-source.
-  - [Good First Issues](https://goodfirstissues.com/) : Good First Issues is a site that aggregates the **latest issues** with the label “Good First Issue”, which is a GitHub feature for finding easy issues to tackle. 
+  - [Good First Issues Dev](https://goodfirstissues.com/) : Good First Issues is a site that aggregates the **latest issues** with the label “Good First Issue”, which is a GitHub feature for finding easy issues to tackle.
+  - [Good-first-issue-finder](https://finder.eddiehub.io/) : entry point for finding good first issues in the EddieHub Organization and in the community
+  - [Open Source Hub](https://opensourcehub.io/) : Open Source Hub showcases Open Source projects powered by CodeSee. CodeSee helps contributors onboard to projects in no time, and helps maintainers automate and review changes faster — so that we can all focus on making an impact.
+  - [contribute.dev](contribute.dev) : List of open-source projects that you can contribute to with one click. The projects have ready-to-code Gitpod setups.
   - [Code Triage](https://www.codetriage.com/) : Code Triage helps you subscribe to your favorite open-source projects and get a new open issue from them in your inbox every day.
   - [First Contributions](https://firstcontributions.github.io/) : Make your first open source contribution in 5 minutes
   - [First Timers Only](https://www.firsttimersonly.com/) : Friendly Open Source projects should reserve specific issues for newbies.
