@@ -248,6 +248,18 @@ _______
  
 _______
 
+### Architecture and Building Resources
+
+- [ArchDaily](https://www.archdaily.com/) : Tools, inspiration, and knowledge to help create better cities.
+
+_______
+
+### Writers, Creatives and Blogs
+- [Cartoon Gravity](https://www.cartoongravity.com/) : Julian Simpson's public brain.
+- [Salman's Sea of Stories](https://salmanrushdie.substack.com/) : An ocean of stories from Salman Rushdie.
+
+_______
+
 <!-- YOUR_CONTENT_GOES_HERE -->
 
 
