@@ -163,6 +163,7 @@ with Floyd Smith(Nginx), is having set of articles which contain information abo
  - [HashNode](https://hashnode.com) : Hashnode is a free content creation platform and community that allows you to publish articles on your own domain and helps you stay connected with a growing developer community.
  - [Smashing Magazine](https://smashingmagazine.com) : mashing Magazine is always expanding to provide more quality content for professionals working in web design.
  - [freeCodeCamp News](https://freecodecamp.org/news) :  To help people learn to code for free, accomplished by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. 
+- [Scaler Blogs](https://www.scaler.com/blog/) : These blogs provide the latest tech career insights and comprehensive roadmap articles, guiding aspiring professionals from beginner to expert in the ever-evolving industry.
 
 
 ### YouTube Channels :tv:
