@@ -164,6 +164,7 @@ with Floyd Smith(Nginx), is having set of articles which contain information abo
  - [Smashing Magazine](https://smashingmagazine.com) : mashing Magazine is always expanding to provide more quality content for professionals working in web design.
  - [freeCodeCamp News](https://freecodecamp.org/news) :  To help people learn to code for free, accomplished by creating thousands of videos, articles, and interactive coding lessons - all freely available to the public. 
 - [Scaler Blogs](https://www.scaler.com/blog/) : These blogs provide the latest tech career insights and comprehensive roadmap articles, guiding aspiring professionals from beginner to expert in the ever-evolving industry.
+- [Applied AI Blogs](https://www.appliedaicourse.com/blog/) : These blogs deliver the latest tech career insights and in-depth roadmap articles, equipping aspiring professionals with the guidance they need to progress from beginners to experts in the dynamic tech industry.
 
 
 ### YouTube Channels :tv:
