@@ -27,5 +27,5 @@
     - [Elements of AI (Part 1) - Reaktor/University of Helsinki](https://www.elementsofai.com/) - An Introduction to AI is a free online course for everyone interested in learning what AI is, what is possible (and not possible) with AI, and how it affects our lives – with no complicated math or programming required.
     - [Kaggle's micro courses](https://www.kaggle.com/learn/overview) - A series of micro courses by offering practical and hands-on knowledge ranging from Python to Deep Learning.
     - [Scaler's Blogs](https://www.scaler.com/blog/category/artificial-intelligence-machine-learning/) - Explore in-depth articles on Artificial Intelligence and Machine Learning, covering concepts, tools, and real-world applications to advance your AI/ML knowledge.
- - [Applied AI Blogs](https://www.appliedaicourse.com/blog/) - Explore in-depth articles on Artificial Intelligence and Machine Learning, covering concepts, tools, and real-world applications to advance your AI/ML knowledge.
- - [AI & ML Course by Scaler Academy](https://www.scaler.com/ai-machine-learning-course/) - In-depth training on AI and ML with hands-on projects and expert mentorship.
+    - [Applied AI Blogs](https://www.appliedaicourse.com/blog/) - Explore in-depth articles on Artificial Intelligence and Machine Learning, covering concepts, tools, and real-world applications to advance your AI/ML knowledge.
+    - [AI & ML Course by Scaler Academy](https://www.scaler.com/ai-machine-learning-course/) - In-depth training on AI and ML with hands-on projects and expert mentorship.
