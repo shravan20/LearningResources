@@ -215,6 +215,7 @@ with Floyd Smith(Nginx), is having set of articles which contain information abo
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
 - [Edureka!](https://www.youtube.com/user/edurekaIN): Mission of making learning accessible to everyone
+- [PulumiTV](https://www.youtube.com/@PulumiTV): Build infrastructure intuitively on any cloud with TypeScript, Python, Go, C#, Java, and YAML.
 
 
 
